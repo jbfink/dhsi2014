@@ -2,7 +2,7 @@
 librarians              5     10
 library workers         10    30
 
-marginal: 15 / 40
+marginal: 15 / 55
 
 joint: 5 / 40
 
