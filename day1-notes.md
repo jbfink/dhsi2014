@@ -38,3 +38,34 @@ K-fold cros-validation
 * bias-variance tradoeff: k large, loewr bias, higher variance.
 * one initial shuffle
 * when number of folds = number of instances k-fold cross-validation is called leave-one-out eval.
+
+bootstrap estimate
+* randoml select N samples with N instances. etc. etc.
+
+Confusion matrix (indeed)
+
+binary testing:
+---------------
+
+* true positives: ground truth and prediction are c,
+* false positives: ground truth is not c but prediction is c
+* false neg: ground truth is c but prediction is not c
+* true negative: ground truth and prediction are not c 
+---------------
+
+precision and recall
+
+
+confidence intervals
+
+confidence interval becomes tighter as n increases, e.g. 20 = 58-92
+
+
+explanation of iris arff data set
+
+
+afternoon
+=========
+
+what is mathematics? (oh boy)
+
