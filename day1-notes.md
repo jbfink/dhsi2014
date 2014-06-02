@@ -69,3 +69,4 @@ afternoon
 
 what is mathematics? (oh boy)
 
+curse of dimensionality

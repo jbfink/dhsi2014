@@ -1,0 +1,9 @@
+			IT    Non IT
+librarians              5     10
+library workers         10    30
+
+marginal: 15 / 40
+
+joint: 5 / 40
+
+conditional:  5 / 15
